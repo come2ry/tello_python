@@ -2,4 +2,4 @@
 
 # 2. TelloPy (or pip install tellopy)
 
-# 3. 
+# 3. only main.py
