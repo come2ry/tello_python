@@ -1,0 +1,6 @@
+[submodule "Tello-Python"]
+	path = Tello-Python
+	url = https://github.com/dji-sdk/Tello-Python.git
+[submodule "TelloPy"]
+	path = TelloPy
+	url = https://github.com/hanyazou/TelloPy.git
